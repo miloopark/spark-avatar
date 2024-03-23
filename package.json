@@ -1,19 +1,14 @@
 {
-  "name": "react-three-vite",
+  "name": "spark-avatar",
   "version": "1.0.2",
-  "description": "A simple React Three Fiber + Vite starter with an import-ready CodeSandbox config.",
+  "description": "3D Avatar with Model Viewer and Mixamo Animations",
   "keywords": [
-    "r3f",
-    "react",
-    "three",
-    "vite",
-    "starter",
-    "react three fiber",
-    "sandbox",
-    "codesandbox"
+    "3d",
+    "avatar",
+    "vite"
   ],
-  "author": "Benjamin Miles <talk@benjaminmiles.com> (https://github.com/benjaminmiles)",
-  "repository": "github:benjaminmiles/react-three-vite",
+  "author": "Milo Park <minpark@bu.edu> (https://github.com/miloopark)",
+  "repository": "github:miloopark/spark-avatar",
   "license": "MIT",
   "dependencies": {
     "@react-three/drei": "9.97.0",

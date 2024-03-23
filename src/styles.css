@@ -31,3 +31,10 @@ body {
   color: black;
   -webkit-font-smoothing: antialiased;
 }
+
+model-viewer {
+  display: block; /* Remove any unwanted margins */
+  width: 100%; /* Take the full width of its container */
+  height: 100vh; /* Take the full height of the viewport */
+  margin: 0 auto; /* Centering the model-viewer horizontally */
+}
