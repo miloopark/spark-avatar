@@ -1,5 +1,5 @@
 import React from 'react';
-import Avatar from './components/Avatar'; // Import the Avatar component
+import Avatar from './components/Avatar'; 
 
 const App = () => {
   return (

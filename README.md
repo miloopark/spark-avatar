@@ -1,6 +1,7 @@
 # 3D Avatar with Model Viewer and Mixamo Animations
 
 A 3D Avatar using Model Viewer and Mixamo Animations 
+![Preview](/public/models/preview.png)
 
 ### Resources:
 
