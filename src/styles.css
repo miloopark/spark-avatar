@@ -9,32 +9,10 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #272727;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  background-color: white;
   overflow: hidden;
 }
 
 #root {
   overflow: auto;
-}
-
-body {
-  position: fixed;
-  overflow: hidden;
-  overscroll-behavior-y: none;
-  font-family: helvetica neue, helvetica, arial, sans-serif;
-  color: black;
-  -webkit-font-smoothing: antialiased;
-}
-
-model-viewer {
-  display: block; /* Remove any unwanted margins */
-  width: 100%; /* Take the full width of its container */
-  height: 100vh; /* Take the full height of the viewport */
-  margin: 0 auto; /* Centering the model-viewer horizontally */
 }
